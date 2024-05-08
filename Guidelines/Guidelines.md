@@ -1,0 +1,180 @@
+# Emails
+
+## Officer Emails
+- **ScooterBull050824@LineDancingUSF.org**
+  - Individual Accounts: `[FirstName][LastName][Birthday if required]@LineDancingUSF.org`
+- **accounts@LineDancingUSF.org**
+  - Use this email address for all registration and management of our club's social media accounts. It serves as the official contact point for platforms like Facebook, Instagram, Twitter, etc., handling everything from setup to daily operations and support.
+
+## Back End Emails
+- **info@LineDancingUSF.org**
+  - Your go-to source for general inquiries. Whether you're new to the club or a regular member, use this address to ask questions about club activities, membership, and more.
+- **support@LineDancingUSF.org**
+  - Dedicated to assisting members with any issues they may face. Contact this address for help with website problems, payment issues, or troubleshooting during online event registrations.
+- **events@LineDancingUSF.org**
+  - Direct all your event-related queries here. Use this address to get details about upcoming events, register for competitions, or request information about event schedules.
+- **feedback@LineDancingUSF.org**
+  - We value your feedback! Share your experiences, suggestions, or concerns about our events, classes, or any other aspects of club operations. Help us improve and serve you better.  
+
+## User Facing Emails
+- **president@LineDancingUSF.org**
+  - Reach out to the President of the "Boot Scootin' Bulls" for leadership inquiries, strategic decisions, or to discuss partnerships and club direction. This address is key for high-level communications and organizational oversight.
+- **secretary@LineDancingUSF.org**
+  - Contact the club's Secretary for administrative support, document requests, meeting minutes, or membership records. This address is essential for organizational and record-keeping tasks.
+- **marketing@LineDancingUSF.org**
+  - Connect with our marketing team for all matters related to promotions, sponsorships, and collaborations. This address is also for media inquiries and marketing opportunities.
+- **instructors@LineDancingUSF.org**
+  - Get in touch with our dance instructors for questions about class schedules, dance techniques, or to arrange private lessons. This email is your direct link to the teaching staff and their expertise in line dancing.
+
+## Overview
+### User-Facing Emails
+Our user-facing emails (e.g., president@LineDancingUSF.org, secretary@LineDancingUSF.org, marketing@LineDancingUSF.org, instructors@LineDancingUSF.org) are visible and accessible to all club officers. This transparency allows every officer to be aware of ongoing communications and inquiries. However, to streamline responses and maintain accountability, emails received at these addresses are automatically forwarded only to the personal inbox of the officer directly associated with that role. This ensures that the responsible officer is notified immediately of relevant communications, while still maintaining an archive accessible to all officers for oversight and support.
+
+### Individual Officer Accounts
+Each officer has an individual email account (e.g., ScooterBull050824@LineDancingUSF.org) that may include their name and other personal identifiers. These accounts are used for internal communications and specific tasks that require personal attention from the officers.
+
+### Back-End Emails
+Operational emails such as accounts@LineDancingUSF.org, info@LineDancingUSF.org, and support@LineDancingUSF.org handle specific aspects like social media management, general inquiries, and member support. These emails are designed to segregate different operational functions clearly and effectively, ensuring that queries are directed to the appropriate department.
+
+This email strategy not only protects individual privacy by separating personal officer information from their public-facing roles but also facilitates a seamless transition when roles change hands. By keeping all inquiries visible to all officers but notifying only the responsible parties, we maintain a balance between collaborative awareness and individual accountability.
+
+# Advertisement
+
+## Campaigns
+Campaigns should be strategically planned and prepared well in advance. Ideally, conceptualization should occur four weeks prior to the campaign start date, with finalization and submission of all materials completed three weeks in advance. This schedule allows for a two-week grace period before the campaign launch to facilitate any necessary adjustments, modifications, or enhancements. An automated tool will be implemented to ensure all posts are scheduled for social media and documentation is submitted for approval at least two weeks in advance, ensuring we secure the necessary approvals one week before the campaign goes live.
+
+## Social Media
+- **Facebook**
+  - Used primarily for engaging with the wider community outside of USF, enhancing our club's visibility and fostering external community interactions.
+- **Instagram**
+  - Serves as the primary platform for promoting events and increasing awareness about the club's activities.
+- **YouTube**
+  - Hosts tutorials and instructional videos, offering followers and members a resource for learning and improving their dance skills.
+- **TikTok**
+  - Features cool clips and engaging content designed to generate excitement and hype around our events and community.
+- **Twitter**
+  - Utilized for quick updates, announcements, and to engage in conversations around relevant topics and events.
+- **LinkedIn**
+  - Acts as the professional face of the club, aimed at engaging with businesses and professionals for potential partnerships or sponsorships.
+- **BullsConnect**
+  - Manages event scheduling and participant management, offering a streamlined tool for both club officers and members.
+
+## Required Media
+### Digital
+| Media Type           | Dimensions (Width x Height) | Usage                                     |
+|----------------------|-----------------------------|-------------------------------------------|
+| MyUSF Event Banner   | 660 x 440px                 | Digital display on MyUSF website          |
+| BullsConnect Banner  | 864 x 432px                 | BullsConnect platform event banner        |
+| MSC TVs              | 1920 x 1080px               | Display on MSC building TVs               |
+| Social Media Posts   | 2048 x 2048px               | Instagram, Facebook, YikYak, etc.         |
+
+
+
+### Print
+| Media Type           | Dimensions (Width x Height) | Usage                                     |
+|----------------------|-----------------------------|-------------------------------------------|
+| MSC Info Desk        | 5" x 7"                     | Physical information display at MSC       |
+| MSC Info Desk Trifold| 8.5" x 3.66"                | Trifold brochures at MSC                  |
+| Flyers               | 8.5" x 11"                  | General event flyers                      |
+| Yard Signs           | 18" x 24"                   | Outdoor signage on campus                 |
+| Bulls Market Banner  | 24" x 60"                   | Standing banner for Bulls Market events   |
+| Chalking Design      | 36" x 48"                   | Ground chalking for event promotion       |
+| MSC Hanging Banner   | 48" x 96"                   | Large hanging banners in MSC              |
+
+## Design Guidelines
+### Proposed Approved Fonts
+- **OpenSans**
+  - Utilized for main text, providing clean and legible typography suitable for all forms of digital and printed media.
+- **Nadaka Western**
+  - Applied to styled text where a distinctive or thematic font is appropriate, enhancing visual interest without sacrificing readability.
+- **OCR A Extended**
+  - Employed for situations requiring high readability, such as instructional materials or any text intended for quick scanning.
+
+### Gutters
+Gutters, or the space between content in a design, should measure 1/32nd of the smaller dimension of each created document. This standard ensures that content is neatly framed and readable, enhancing the overall layout and design:
+| Dimensions (Width x Height) | Gutter Size   | Description                              |
+|-----------------------------|---------------|------------------------------------------|
+| 660 x 440px                 | 13.75px       | Minimum gutter for MyUSF Event Banner    |
+| 864 x 432px                 | 13.5px        | Minimum gutter for BullsConnect Banner   |
+| 1920 x 1080px               | 33.75px       | Minimum gutter for MSC TVs               |
+| 4096 x 4096px               | 128px         | Minimum gutter for large digital media   |
+| 5" x 7"                     | 5/32"         | Minimum gutter for MSC Info Desk         |
+| 8.5" x 3.66"                | 11/96"        | Minimum gutter for MSC Info Desk Trifold |
+| 8.5" x 11"                  | 11/32"        | Minimum gutter for Flyers                |
+| 18" x 24"                   | 9/16"         | Minimum gutter for Yard Signs            |
+| 24" x 60"                   | 3/4"          | Minimum gutter for Bulls Market Banner   |
+| 36" x 48"                   | 1 1/8"        | Minimum gutter for Chalking Design       |
+| 48" x 96"                   | 1 1/2"        | Minimum gutter for MSC Hanging Banner    |
+
+
+### Typography
+By adhering to these strict guidelines, your club's communications and promotional materials will present a unified, professional, and easily readable appearance, reinforcing the club's brand identity consistently across all media.
+
+#### Font Family Usage
+- **OpenSans**
+  - Usage: Main text for documents, web content, and promotional materials.
+  - Weight: Regular (400) for body text; Bold (700) for headings.
+  - Size: Body text at 1em (typically 16px); Headings ranging from 1.25em (20px) to 2em (32px), depending on the level of heading.
+- **Nadaka Western**
+  - Usage: Stylistic elements such as pull quotes or special announcements.
+  - Weight: Regular (400).
+  - Size: Similar to body text or slightly larger to maintain legibility, approximately 1.1em (17.6px).
+- **OCR A Extended**
+  - Usage: Information requiring high readability, such as instructional leaflets or technical descriptions.
+  - Weight: Regular (400).
+  - Size: Use a larger size for clear readability, around 1.2em (19.2px).
+
+#### General Typography Rules
+- **Line Spacing (Leading)**
+  - Set line spacing at 1.5 times the font size for body text to improve readability. For example, if the body text is 16px, line spacing should be 24px.
+- **Letter Spacing (Tracking)**
+  - Normal tracking for body text and slightly increased for uppercase or small text to enhance legibility.
+- **Text Alignment**
+  - Align body text to the left; centered text can be used for headings or titles if design permits.
+- **Margins and Padding**
+  - Ensure that text does not touch the edges of the design elements; maintain a minimum padding of 0.5em around text blocks.
+
+#### Special Instructions
+- Capitalize headings to draw attention and differentiate from body text.
+- Use italics sparingly, primarily for emphasis or for quotes.
+- Avoid underlining for emphasis; use bold or color changes instead.
+- **Color and Contrast**
+  - Ensure that text color contrasts sufficiently with the background for visibility. Prefer dark text on light backgrounds or light text on dark backgrounds.
+
+#### Application in Media
+- **Digital Media**
+  - For digital displays such as screens or online platforms, ensure that the font size adjusts to different resolutions and screen sizes using relative units like percentages or em.
+- **Print Media**
+  - For printed materials, adhere to the font size guidelines but consider the impact of different paper sizes and print quality on readability.
+
+## Colors
+### CORE COLORS
+| Color Name | PMS    | CMYK         | RGB          | HEX     |
+|------------|--------|--------------|--------------|---------|
+| USF Green  | 342    | 93, 10, 75, 43 | 0, 103, 71   | #006747 |
+| USF Gold   | 4535   | 6, 8, 35, 12 | 207, 196, 147 | #CFC493 |
+| White      | N/A    | 0, 0, 0, 0   | 255, 255, 255 | #FFFFFF |
+
+
+### SECONDARY COLORS
+| Color Name | PMS    | CMYK         | RGB          | HEX     |
+|------------|--------|--------------|--------------|---------|
+| Sand       | 614    | 7, 4, 19, 0  | 237, 235, 209 | #EDEBD1 |
+| Evergreen  | 3435   | 96, 15, 84, 56 | 0, 84, 50    | #005432 |
+
+
+### ACCENT COLORS
+| Color Name   | PMS    | CMYK           | RGB          | HEX     |
+|--------------|--------|----------------|--------------|---------|
+| Lemongrass   | 380    | 18, 0, 100, 0  | 219, 228, 66 | #DBE442 |
+| Apple        | 376    | 44, 0, 100, 0  | 156, 203, 59 | #9CCB3B |
+| Teal         | 341    | 80, 7, 62, 16  | 0, 147, 116  | #009374 |
+| Seaglass     | 5503   | 38, 0, 25, 22  | 128, 176, 166 | #80B0A6 |
+| Storm        | 7700   | 97, 53, 33, 10 | 0, 100, 132  | #006484 |
+| Silver       | 427    | 22, 12, 12, 0  | 202, 210, 216 | #CAD2D8 |
+| Gray         | 430    | 55, 34, 32, 0  | 126, 150, 160 | #7E96A0 |
+| Slate        | 7545   | 75, 52, 47, 22 | 70, 96, 105  | #466069 |
+
+
+# Website
+- **Note**: There will be one; still working on details. I am going to build a visualizer as well as a main landing page.
