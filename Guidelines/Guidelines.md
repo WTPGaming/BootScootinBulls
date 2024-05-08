@@ -175,6 +175,48 @@ By adhering to these strict guidelines, your club's communications and promotion
 | Gray         | 430    | 55, 34, 32, 0  | 126, 150, 160 | #7E96A0 |
 | Slate        | 7545   | 75, 52, 47, 22 | 70, 96, 105  | #466069 |
 
+## Brand Voice
+
+### Energetic
+We’re all about the energy and enthusiasm of dancing. Use dynamic and lively language that motivates our members to get up and dance!
+
+>**Examples:**
+- "Let’s hit the dance floor with energy that even a bull can’t beat!"
+- "Get ready to kick up your heels and make sparks fly!"
+
+### Inclusive
+Our club is a community where everyone is welcome, and everyone belongs. Our language should always be inclusive, respectful, and supportive.
+
+>**Examples:**
+- "Join our circle—everyone’s invited, from beginners to pros!"
+- "At Boot Scootin' Bulls, there’s a spot on the dance floor for everyone."
+
+### Playful
+We take our fun seriously! Don’t be afraid to inject humor and playfulness into our communications.
+
+>**Examples:**
+- "Grab your boots, and let’s scoot! Don’t worry if you stumble—a little goof is part of the fun."
+- "Dance like nobody’s watching (even though we all are, and we’re totally impressed!)"
+
+## Tone Adjustments
+
+### Formal Events
+While maintaining our friendly demeanor, elevate the language slightly for formal communications or official events.
+
+>**Example:**
+- "We cordially invite you to join us at the annual USF Line Dancing Gala. Come celebrate a year of great steps and good company."
+
+### Informal Settings
+In casual interactions, especially on social media, feel free to be more laid-back and conversational.
+
+>**Example:**
+- "Hey Bulls! Ready to dance the night away? See y’all tonight at the usual spot. Bring your friends and let’s make some memories!"
+
+## Usage
+Always remember that our voice represents the Boot Scootin' Bulls wherever it appears—from social media posts to official newsletters. Keep it consistent, but also adaptable to the context and platform.
+
+Thank you for helping us communicate with one voice that’s as spirited as our dances!
+
 
 # Website
 - **Note**: There will be one; still working on details. I am going to build a visualizer as well as a main landing page.
