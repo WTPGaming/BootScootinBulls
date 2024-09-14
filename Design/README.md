@@ -13,7 +13,7 @@ Welcome to the **Digital Media Designs** folder of the Boot Scootin' Bulls! Here
 
 | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Billy/Exports/Billy_72ppi.png?raw=true" width="100"> | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Bobby/Exports/Bobby_72ppi.png?raw=true" width="100"> | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Joey/Exports/Joey_72ppi.png?raw=true" width="100"> | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Scooter/Exports/Scooter_72ppi.png?raw=true" width="100"> |
 |:------------------------------------------:|:----------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-| [**Characters**](characters/)              | [**Social Media Posts**](social_media/)         | [**Campaigns**](campaigns/)             | [**Campaigns**](campaigns/)             |
+| [**Billy**](Characters/Billy/) | [**Bobby**](Characters/Bobby) | [**Joey**](Characters/Joey) | [**Scooter**](Characters/Scooter) |
 
 | ![Handouts](handouts/handout_1.png) | ![Promotional Materials](promotional_materials/promo_1.png) | ![Miscellaneous Graphics](miscellaneous/graphic_1.png) |
 |:-----------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------------:|
