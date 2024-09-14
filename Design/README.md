@@ -15,42 +15,16 @@ Welcome to the **Digital Media Designs** folder of the Boot Scootin' Bulls! Here
 |:------------------------------------------:|:----------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | [**Billy**](Characters/Billy/) | [**Bobby**](Characters/Bobby) | [**Joey**](Characters/Joey) | [**Scooter**](Characters/Scooter) |
 
-| ![Handouts](handouts/handout_1.png) | ![Promotional Materials](promotional_materials/promo_1.png) | ![Miscellaneous Graphics](miscellaneous/graphic_1.png) |
-|:-----------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------------:|
-| [**Handouts**](handouts/)           | [**Promotional Materials**](promotional_materials/)          | [**Miscellaneous Graphics**](miscellaneous/)            |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 1. Characters 👥
-A collection of character designs featuring avatars, mascots, or icons used in our campaigns and promotional materials.
-
-- **Character 1:** ![Billy](Characters/Billy/Exports/Billy_72ppi.png)
-- **Character 2:** ![Bobby](Characters/Bobby/Exports/Bobby_72ppi.png)
-- **Character 3:** ![Joey](Characters/Joey/Exports/Joey_72ppi.png)
-- **Character 4:** ![Scooter](Characters/Scooter/Exports/Scooter_72ppi.png)
-
-### 2. Social Media Posts 📱
+## 2. Social Media Posts 📱
 All the designs for posts shared on our social media platforms, like Instagram and Facebook. These visuals are designed to engage with our audience, promote events, and celebrate milestones.
 
-- **Post 1:** ![Bulls Market](Bulls%20Market/Exports/Bulls_Market_72ppi.png)
-- **Post 2:** ![Post 2](social_media/post_2.png)
-- **Post 3:** ![Post 3](social_media/post_3.png)
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Billy/Exports/Billy_72ppi.png?raw=true" width="100"> 
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Bobby/Exports/Bobby_72ppi.png?raw=true" width="100"> 
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Joey/Exports/Joey_72ppi.png?raw=true" width="100"> 
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Scooter/Exports/Scooter_72ppi.png?raw=true" width="100"> |
+|:------------------------------------------:|:----------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| [**Billy**](Characters/Billy/) | [**Bobby**](Characters/Bobby) | [**Joey**](Characters/Joey) | [**Scooter**](Characters/Scooter) |
 
 ### 3. Campaigns 🎯
 Designs used for promoting specific campaigns and monthly events for the Boot Scootin' Bulls.
