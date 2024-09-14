@@ -11,7 +11,7 @@ Welcome to the **Digital Media Designs** folder of the Boot Scootin' Bulls! Here
 
 ## 📁 Characters
 
-| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Billy/Exports/Billy_72ppi.png?raw=true" width="100" height="100">! | ![Bobby](Characters/Bobby/Exports/Bobby_72ppi.png) | ![Joey](Characters/Joey/Exports/Joey_72ppi.png) | ![Scooter](Characters/Scooter/Exports/Scooter_72ppi.png) |
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Billy/Exports/Billy_72ppi.png?raw=true" width="100" height="100"> | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Bobby/Exports/Bobby_72ppi.png?raw=true" width="100" height="100"> | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Joey/Exports/Joey_72ppi.png?raw=true" width="100" height="100"> | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Characters/Scooter/Exports/Scooter_72ppi.png?raw=true" width="100" height="100"> |
 |:------------------------------------------:|:----------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | [**Characters**](characters/)              | [**Social Media Posts**](social_media/)         | [**Campaigns**](campaigns/)             | [**Campaigns**](campaigns/)             |
 
