@@ -12,8 +12,8 @@ Welcome to the **Digital Media Designs** folder of the Boot Scootin' Bulls! Here
 ## 📁 Characters
 
 | ![Billy](Characters/Billy/Exports/Billy_72ppi.png) | ![Bobby](Characters/Bobby/Exports/Bobby_72ppi.png) | ![Joey](Characters/Joey/Exports/Joey_72ppi.png) | ![Scooter](Characters/Scooter/Exports/Scooter_72ppi.png) |
-|:------------------------------------------:|:----------------------------------------------:|:---------------------------------------:|
-| [**Characters**](characters/)              | [**Social Media Posts**](social_media/)         | [**Campaigns**](campaigns/)             |
+|:------------------------------------------:|:----------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| [**Characters**](characters/)              | [**Social Media Posts**](social_media/)         | [**Campaigns**](campaigns/)             | [**Campaigns**](campaigns/)             |
 
 | ![Handouts](handouts/handout_1.png) | ![Promotional Materials](promotional_materials/promo_1.png) | ![Miscellaneous Graphics](miscellaneous/graphic_1.png) |
 |:-----------------------------------:|:-----------------------------------------------------------:|:-------------------------------------------------------:|
