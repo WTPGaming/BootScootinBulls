@@ -22,13 +22,21 @@ All the designs for posts shared on our social media platforms, like Instagram a
 | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Bulls%20Market/Exports/Bulls_Market_72ppi.png?raw=true" width="100"> 
 | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/BullsConnect%20Instagram%20Post/Exports/BullsConnect%20Instagram%20Post_72ppi.png?raw=true" width="100"> 
 | <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Cinco%20De%20Mayo/Exports/Cinco%20De%20Mayo_72ppi.png?raw=true" width="100">
-| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Finals%20Week/Exports/Finals%20Week_72ppi.png?raw=true" width="100"> |
-| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/First%20Meeting/Exports/First%20Meeting_72ppi.png?raw=true" width="100"> |
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Finals%20Week/Exports/Finals%20Week_72ppi.png?raw=true" width="100"> 
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/First%20Meeting/Exports/First%20Meeting_72ppi.png?raw=true" width="100"> 
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/GroupMe%20Instagram%20Post/Exports/GroupMe_72ppi.png?raw=true" width="100"> 
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Line%20Dancing%20Lessons/Exports/Line%20Dancing%20Lessons_72ppi9.png?raw=true" width="100"> |
+| <img src="https://github.com/WTPGaming/BootScootinBulls/blob/main/Design/Mothers%20Day/Exports/Mothers%20Day_72ppi.png?raw=true" width="100"> |
 |:------------------------------------------:|:----------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | [**Bulls Martket**](Bulls%20Market) 
 | [**Bulls Connect**](Characters/Bobby) 
 | [**Cinco De Mayo**](Characters/Joey) 
-| [**Finals Week**](Characters/Scooter) |
+| [**Finals Week**](Characters/Scooter) 
+| [**First Meeting**](Characters/Scooter)
+| [**GroupMe**](Characters/Scooter)
+| [**Line Dancing Lessons - Autumn 24'**](Characters/Scooter)
+| [**Mothers Day**](Characters/Scooter) |
+
 
 ### 3. Campaigns 🎯
 Designs used for promoting specific campaigns and monthly events for the Boot Scootin' Bulls.
